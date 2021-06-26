@@ -7,3 +7,10 @@
 - 📫 E-mail luizmp.net@gmail.com / comercial@uno.net.br
 - ⚡ Visite meu site-portfolio https://uno.net.br/
 - ⚡ https://www.linkedin.com/in/luizhenriqui/
+
+
+
+| ![Certificado-Android-Kotlin](C:\Users\App Develop\Desktop\Documentos\git\Certificado-Android-Kotlin.jpg) | ![MVVM](C:\Users\App Develop\Desktop\Documentos\git\MVVM.jpg) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                                                              |                                                              |
+
