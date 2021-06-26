@@ -9,8 +9,3 @@
 - ⚡ https://www.linkedin.com/in/luizhenriqui/
 
 
-
-| ![Certificado-Android-Kotlin](C:\Users\App Develop\Desktop\Documentos\git\Certificado-Android-Kotlin.jpg) | ![MVVM](C:\Users\App Develop\Desktop\Documentos\git\MVVM.jpg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                                                              |                                                              |
-
