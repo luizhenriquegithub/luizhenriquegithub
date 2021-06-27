@@ -17,7 +17,7 @@
 
 ### Hard Skills Android
 
-Kotlin
+[Kotlin 
 MVVM
 Koin
 Coroutines
@@ -30,6 +30,5 @@ GIT/TFS/Azure DevOps
 Expresso Android
 Junit4 teste unitarios
 Testes instrumentais 
-Publicação na Google Play
-
+Publicação na Google Play]()
 
