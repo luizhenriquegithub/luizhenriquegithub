@@ -25,8 +25,13 @@
 - Retrofit
 - API Rest Full/PHP
 - Fragments
-- LiveData, Data Binding e Navigation
-- GIT/TFS/Azure DevOps
+- LiveData
+- Data Binding
+- View Binding 
+- Navigation
+- Git
+- Gitlab
+- TFS/Azure DevOps
 - Expresso Android
 - Junit4 teste unitarios
 - Testes instrumentais 
