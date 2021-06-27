@@ -17,18 +17,20 @@
 
 ### Hard Skills Android
 
-[Kotlin 
-MVVM
-Koin
-Coroutines
-Firebase
-Retrofit
-API Rest Full/PHP
-Fragments
-LiveData, Data Binding e Navigation
-GIT/TFS/Azure DevOps
-Expresso Android
-Junit4 teste unitarios
-Testes instrumentais 
-Publicação na Google Play]()
+> Kotlin 
+> MVVM
+> Koin
+> Coroutines
+> Firebase
+> Retrofit
+> API Rest Full/PHP
+> Fragments
+> LiveData, Data Binding e Navigation
+> GIT/TFS/Azure DevOps
+> Expresso Android
+> Junit4 teste unitarios
+> Testes instrumentais 
+> Publicação na Google Play
+
+
 
