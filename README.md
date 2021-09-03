@@ -23,7 +23,7 @@
 - Coroutines
 - Firebase
 - Retrofit
-- API Rest Full/PHP
+- API Rest Full/Spring Boot
 - Fragments
 - LiveData
 - Data Binding
