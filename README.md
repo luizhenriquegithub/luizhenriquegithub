@@ -7,7 +7,7 @@
 
 - 💬 Whatsapp **(31)9 9920-0642**
 
-- 📫 E-mail luizmp.net@gmail.com / comercial@uno.net.br
+- 📫 E-mail luizmp.net@gmail.com / luiz@uno.net.br
 
 - ⚡ Visite meu site-portfolio https://uno.net.br/
 
