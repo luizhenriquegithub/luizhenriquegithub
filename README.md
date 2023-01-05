@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu perfil ! 👋
 
 
-- 🔭 CSS Centers Sênior Specialist | everis | Android
+- 🔭 Android
 
 - 👯 Superior de Tecnologia em Desenvolvimento Mobile | Faculdade Pitágoras | Cursando
 
