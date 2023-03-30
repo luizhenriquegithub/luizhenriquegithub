@@ -7,9 +7,9 @@
 
 - 💬 Whatsapp **(31)9 9920-0642**
 
-- 📫 E-mail luizmp.net@gmail.com / luiz@uno.net.br
+- 📫 E-mail luizmp.net@gmail.com 
 
-- ⚡ Visite meu site-portfolio https://uno.net.br/
+- ⚡ Visite meu app-portfolio https://play.google.com/store/apps/details?id=br.net.uno.appuno
 
 - ⚡ https://www.linkedin.com/in/luizhenriqui/
 
@@ -38,7 +38,6 @@
 
 - Publicação na Google Play
 - https://play.google.com/store/apps/details?id=br.net.uno.appuno
-- https://play.google.com/store/apps/details?id=app.acougue.proteina
 
 
 
