@@ -1,17 +1,17 @@
 ### Seja bem vindo ao meu perfil ! 👋
 
 
-- 🔭 Android
+>- 🔭 Android
 
-- 👯 Superior de Tecnologia em Desenvolvimento Mobile | Faculdade Pitágoras | Cursando
+>- 👯 Superior de Tecnologia em Desenvolvimento Mobile | Faculdade Pitágoras | Cursando
 
-- 💬 Whatsapp **(31)9 9920-0642**
+>- 💬 Whatsapp **(31)9 9920-0642**
 
-- 📫 E-mail luizmp.net@gmail.com 
+>- 📫 E-mail luizmp.net@gmail.com 
 
-- ⚡ Visite meu app-portfolio https://play.google.com/store/apps/details?id=br.net.uno.appuno
+>- ⚡ Visite meu app-portfolio https://play.google.com/store/apps/details?id=br.net.uno.appuno
 
-- ⚡ https://www.linkedin.com/in/luizhenriqui/
+>- ⚡ https://www.linkedin.com/in/luizhenriqui/
 
   
 
