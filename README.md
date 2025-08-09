@@ -33,9 +33,3 @@
 - Expresso Android
 - Junit4 teste unitarios
 - Testes instrumentais 
-
-- Publicação na Google Play
-- https://play.google.com/store/apps/details?id=br.net.uno.appuno
-
-
-
