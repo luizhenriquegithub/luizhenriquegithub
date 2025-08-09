@@ -9,8 +9,6 @@
 
 >- 📫 E-mail luizmp.net@gmail.com 
 
->- ⚡ Visite meu app-portfolio https://play.google.com/store/apps/details?id=br.net.uno.appuno
-
 >- ⚡ https://www.linkedin.com/in/luizhenriqui/
 
   
