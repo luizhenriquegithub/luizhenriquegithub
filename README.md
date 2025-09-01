@@ -1,10 +1,10 @@
 ## Seja bem vindo ao meu perfil ! 👋
 
->- 💬 Whatsapp **(31)9 9920-0642**
+- 💬 Whatsapp **(31)9 9920-0642**
 
->- 📫 E-mail luizmp.net@gmail.com 
+- 📫 E-mail luizmp.net@gmail.com 
 
->- ⚡ https://www.linkedin.com/in/luizhenriqui/
+- ⚡ https://www.linkedin.com/in/luizhenriqui/
 
 
 
