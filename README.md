@@ -7,9 +7,11 @@
 >- ⚡ https://www.linkedin.com/in/luizhenriqui/
 
 
+
 ## 🚀 Sobre mim
 
 💻 Profissional de TI com 20 anos de experiência em desenvolvimento de software, atuando com comprometimento, foco em resultados e trabalho em equipe. Possuo facilidade em lidar com prazos, metas e ambientes de alta cobrança. Sou dinâmico, comunicativo e tenho excelente relacionamento interpessoal.
+
 
 
 ## 🛠 Habilidades
